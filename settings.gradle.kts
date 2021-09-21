@@ -1,0 +1,1 @@
+rootProject.name = "com.steamledge.steamleadge-staffs-api"
